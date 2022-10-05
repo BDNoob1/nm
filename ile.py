@@ -1,3 +1,4 @@
+#DEVIL
 import requests,bs4,json,os,sys,random,datetime,time,re
 try:
 	import rich
@@ -98,7 +99,7 @@ def banner():
                                
                                 
 
- ami                      
+             
 \x1b[92;1m===================================>\x1b[92;1m
 \x1b[93;1m Author       \x1b[92;1m=>      \x1b[93;1ღ﹏𝐃𝐞𝐯𝐢𝐥﹏ღ
 \x1b[93;1m Whatsapp     \x1b[92;1m=>      \x1b[93;1mNUMBER  DIMO NAH GO
