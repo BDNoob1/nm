@@ -246,7 +246,7 @@ def mlaku(z):
         time.sleep(0.03)
 
 
-if __mahadi__=='__main__':
+if __devil__=='__main__':
 	os.system('git pull')
 	try:os.mkdir('CP')
 	except:pass
